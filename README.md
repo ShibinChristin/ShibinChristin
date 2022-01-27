@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShibinChristin
-- 👀 I’m interested in Python,Linux, cyber security, DevOps
+- 👀 I’m interested in Python,Linux, DevOps
 - 🌱 I’m currently learning Python, DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me  here...
